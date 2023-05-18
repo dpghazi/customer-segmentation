@@ -10,16 +10,4 @@ In this project, I work with consumer finance data from the [US Federal Reserve]
 * Reduce high-dimensional data using principal component analysis (PCA)
 
 ### Tools & Libraries 
-* Python
-* Jupyter
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* SciPy
-
-## Featured Notebooks
-* [USA Part 1](https://dpghazi.github.io/projects/exploring-data.html)
-* [USA Part 2](https://dpghazi.github.io/projects/clustering-two-features.html)
-* [USA Part 3](https://dpghazi.github.io/projects/clustering-multiple-features.html)
-* [Small Business Owners](https://dpghazi.github.io/projects/small-business-owners-in-the-united-states.html)
+* Python (Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy)
