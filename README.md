@@ -1,7 +1,7 @@
 # Customer Segmentation with Unsupervised Machine Learning
 
 ## Project Description
-In this project, I work with consumer finance data from the [US Federal Reserve](https://www.federalreserve.gov/econres/scfindex.htm). I build unsupervised machine learning models to segment households that fear they will be unable to get credit.
+In this project, I worked with consumer finance data from the [US Federal Reserve](https://www.federalreserve.gov/econres/scfindex.htm). I built unsupervised machine learning models to segment households that fear they will be unable to get credit.
 
 ### Overview
 * Compared characteristics across subgroups using side-by-side bar charts.
