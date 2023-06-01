@@ -13,7 +13,7 @@ In this project, I work with consumer finance data from the [US Federal Reserve]
 * Python (Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy)
 
 ### Featured Notebooks
-* [Survey of Consumer Finances Part 1](https://dpghazi-wqu-ds.s3.amazonaws.com/exploring-data.html)
-* [Survey of Consumer Finances Part 2](https://dpghazi-wqu-ds.s3.amazonaws.com/clustering-two-features.html)
-* [Survey of Consumer Finances Part 3](https://dpghazi-wqu-ds.s3.amazonaws.com/clustering-multiple-features.html)
+* [Households Part 1](https://dpghazi-wqu-ds.s3.amazonaws.com/exploring-data.html)
+* [Households Part 2](https://dpghazi-wqu-ds.s3.amazonaws.com/clustering-two-features.html)
+* [Households Part 3](https://dpghazi-wqu-ds.s3.amazonaws.com/clustering-multiple-features.html)
 * [Small Business Owners](https://dpghazi-wqu-ds.s3.amazonaws.com/small-business-owners-in-the-united-states.html)
